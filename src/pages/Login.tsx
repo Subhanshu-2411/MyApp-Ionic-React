@@ -6,7 +6,7 @@ const Login: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonTitle></IonTitle>
+                    <IonTitle>Login</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent

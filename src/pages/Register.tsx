@@ -6,7 +6,7 @@ const Register: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonTitle></IonTitle>
+                    <IonTitle>Register</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent
